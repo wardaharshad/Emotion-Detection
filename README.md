@@ -13,6 +13,10 @@ Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning
 
 * Enjoy Deep Learning.
 
+Mobilenet API
+
+https://keras.io/api/applications/mobilenet/
+
 To study about Freezing layers, have a look at page 150 to 156 of this book:
 
 https://drive.google.com/file/d/1gDt1RInELTkz20WkWTIUv-5lcXugYjum/view?usp=sharing
