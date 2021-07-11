@@ -13,7 +13,7 @@ Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning
 
 * Enjoy Deep Learning.
 
-Mobilenet API
+Mobilenet Function:
 
 https://keras.io/api/applications/mobilenet/
 
