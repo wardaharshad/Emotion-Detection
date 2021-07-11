@@ -12,3 +12,7 @@ Do Experiment with different pre-trained models.
 Execute the test.py file to run the Emotion Detection.
 
 Enjoy Deep Learning.
+
+To study about Freezing layers, have a look at page 150 to 156:
+
+https://drive.google.com/file/d/1gDt1RInELTkz20WkWTIUv-5lcXugYjum/view?usp=sharing
